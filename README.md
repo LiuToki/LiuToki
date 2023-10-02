@@ -1,6 +1,6 @@
 <link href="https://github.com/LiuToki/Duh/blob/master/dist/duh.css" rel="stylesheet"></link>
 
-<h1 align="center"> Hi there 👋, I'm Ray.Tukumo</h1>
+<h1 align="center"> Hi there 👋, I'm TUKUMO Ray</h1>
 <h3 align="center">A C++ application engineer on Windows</h3>
 
 <h3 align="left">Languages and Tools:</h3>
